@@ -1,3 +1,4 @@
+alias st='clear; git status -sb'
 alias gco='git checkout'
 alias gpr='git pull --rebase origin master'
 alias gcb='git checkout -b'
